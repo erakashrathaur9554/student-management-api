@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\studentmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\entities\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\studentmanagementsystem\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\common\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\common\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\contract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\contract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\entities\\registeruserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\registeruserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\entities\\studentrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\studentrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\entities\\authresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\authresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\entities\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\entities\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\studentmanagementsystem\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\studentmanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B23C590A-4928-8C66-4B08-6622C9777249}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\entities\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|d:\\zest inida pvt ltd\\studentmanagementsystem\\dataaccesslayer\\entities\\studentupdaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\studentupdaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:31:12.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:40:53.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:43:03.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\appsettings.json",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\appsettings.json",
+              "RelativeToolTip": "StudentManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T18:40:54.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenRequestModel.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\TokenRequestModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\TokenRequestModel.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\TokenRequestModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\TokenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:59:38.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:22:13.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Common\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Common\\PasswordHelper.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Common\\PasswordHelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\Common\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:33:48.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Contract\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Contract\\IStudentRepository.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Contract\\IStudentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Contract\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:24:13.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAgwCcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:25:08.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterUserRequestModel.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\RegisterUserRequestModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\RegisterUserRequestModel.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\RegisterUserRequestModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\RegisterUserRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:36:30.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentRequestModel.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\StudentRequestModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\StudentRequestModel.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\StudentRequestModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\StudentRequestModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:08:39.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthResponseModel.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\AuthResponseModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\AuthResponseModel.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\AuthResponseModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\AuthResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:38:40.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\LoginResponseModel.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\LoginResponseModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\LoginResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:29:27.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\LoginRequestModel.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\LoginRequestModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\LoginRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:38:18.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:07:58.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\StudentManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentManagementSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T07:07:51.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\ApiResponse.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\ApiResponse.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:49:28.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentUpdateRequestModel.cs",
+              "DocumentMoniker": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\StudentUpdateRequestModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\StudentUpdateRequestModel.cs",
+              "ToolTip": "D:\\Zest Inida Pvt Ltd\\StudentManagementSystem\\DataAccessLayer\\Entities\\StudentUpdateRequestModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\StudentUpdateRequestModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:15:03.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
